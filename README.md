@@ -31,4 +31,4 @@ https://github.com/lenadis/INTOPrufa
 
 ## 5. Unnið með Git (2. hluti)
 
-Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
+Þetta skjal.
