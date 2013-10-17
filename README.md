@@ -13,7 +13,7 @@ Gekk mjög vel, fór eftir leiðbeiningum og rakst ekki á nein vandamál.
 
 ## 3. Unnið með Git (1. hluti)
 
-Það gekk mjög vel, var ein að gera verkefnið og þetta því einfaldara en annars.
+Það gekk mjög vel, var ein að gera verkefnið og þetta því einfaldara en annars. Á GitHub kemur samt fram að viktorsmari sé að breyta skjalinu en samt eru breytingarnar gerðar eftir að ég er beðin um mitt notendanafn og lykilorð, gerist bara á þessri tölvu, ekki í gegnum mína venjulegu tölvu. Hægt er að sjá á myndinni að ég skrifa inn mitt notendanafn og lykilorð.
 
 https://github.com/lenadis/INTOPrufa
 
