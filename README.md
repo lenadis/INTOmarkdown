@@ -5,7 +5,7 @@ Lena Dís Rúnarsdóttir
 ## 1. Linux uppsetning
 
 Var nú þegar með server heima sem er með linux svo gerði verkefnið á þeirri tölvu. Sú tölva keyrir Ubuntu og gluggakerfið i3wm. Hér er svo mynd bara af kerfinu í keyrslu:
-![altUbuntumynd](https://github.com/lenadis/INTOmarkdown/blob/master/photo.jpg)
+![Ubuntumynd](https://github.com/lenadis/INTOmarkdown/blob/master/photo.jpg)
 
 ## 2. Uppsetning á vim && git
 
