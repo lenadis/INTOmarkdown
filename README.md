@@ -1,6 +1,7 @@
 #Open Source
 
-Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
+- [x] Lena Dís Rúnarsdóttir
+~~ Jón Jónsson (djók ég var ein í hóp) ~~
 
 ## 1. Linux uppsetning
 
